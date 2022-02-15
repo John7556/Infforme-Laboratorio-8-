@@ -62,8 +62,12 @@ Periodo: 400 us (s)
 
 4.3. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
-f: _____________(Hz)
-ω: ____________(rad/s)
+
+![image](https://user-images.githubusercontent.com/93899720/154059287-4102a9a6-c1e8-4f93-9227-ba5c8d5adb6d.png)
+
+
+![image](https://user-images.githubusercontent.com/93899720/154059308-ec658415-cba7-4217-9b64-053b0c7a222e.png)
+
 
 4.4. Con el multímetro digital mida el voltaje de salida en RL:
 
@@ -72,6 +76,9 @@ f: _____________(Hz)
 4.5. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 
 ¿Coinciden? _______ ¿Por qué?
+
+![image](https://user-images.githubusercontent.com/93899720/154059398-41c30e23-a826-4e02-8bd3-ba7a2148a5da.png)
+
 
 5. VIDEO
 
