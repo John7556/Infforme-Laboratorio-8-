@@ -24,7 +24,9 @@
 
 ![image](https://user-images.githubusercontent.com/93899720/154052845-f826cc27-85fb-489e-95a5-d0f38a196f3f.png)
 
-7.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
+7.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio
+
+![image](https://user-images.githubusercontent.com/93899720/154056906-97c143a0-de45-4021-9634-7c48ce58a3d6.png)
 
 ![image](https://user-images.githubusercontent.com/93899720/154055542-c88109e7-aef0-4972-8907-35a56efaa122.png)
 
@@ -39,7 +41,7 @@ La amplitud abarca tres divisiones por cuadro.
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
-2 V 
+En el lugar de 2 V 
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
