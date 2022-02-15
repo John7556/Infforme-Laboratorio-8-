@@ -1,4 +1,4 @@
-# Infforme-Laboratorio-8
+# Informe-Laboratorio-8
 
 1. OBJETIVOS
 
