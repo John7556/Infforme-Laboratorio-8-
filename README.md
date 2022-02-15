@@ -14,17 +14,17 @@
 
 ![image](https://user-images.githubusercontent.com/93899720/153695107-3e59fe1e-50b9-4db8-8ebe-88bb5c088ae4.png)
 
-7.5.1. Implemente el circuito que se presenta en la figura 7.1
+3.1. Implemente el circuito que se presenta en la figura 7.1
 
 ![image](https://user-images.githubusercontent.com/93899720/153695131-56682eb5-12e7-450e-8150-97ec5fb084fd.png)
 
 ![image](https://user-images.githubusercontent.com/93899720/154052193-177a9206-d8b9-4e93-b195-d652962aa418.png)
 
-7.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
+3.2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
 ![image](https://user-images.githubusercontent.com/93899720/154052845-f826cc27-85fb-489e-95a5-d0f38a196f3f.png)
 
-7.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio
+3.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio
 
 ![image](https://user-images.githubusercontent.com/93899720/154056906-97c143a0-de45-4021-9634-7c48ce58a3d6.png)
 
@@ -33,7 +33,7 @@
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-7.5.4. Responda las siguientes preguntas:
+4.1. Responda las siguientes preguntas:
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
@@ -51,7 +51,7 @@ Abar dos divisiones por cuadro.
 
 En la posicion de 200 us 
 
-7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+4.2.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
 ![image](https://user-images.githubusercontent.com/93899720/154055652-ad12e0f0-9e9d-4796-adca-c0b6ec6567fe.png)
 
@@ -60,16 +60,16 @@ En la posicion de 200 us
 Amplitud de voltaje: 6.83 (V)
 Periodo: 400 us (s)
 
-7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+4.3. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
 f: _____________(Hz)
 ω: ____________(rad/s)
 
-7.5.7. Con el multímetro digital mida el voltaje de salida en RL:
+4.4. Con el multímetro digital mida el voltaje de salida en RL:
 
 ![image](https://user-images.githubusercontent.com/93899720/154053014-901535d2-f279-45e6-a2f6-3e20e03cf5c1.png)
 
-7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+4.5. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 
 ¿Coinciden? _______ ¿Por qué?
 
