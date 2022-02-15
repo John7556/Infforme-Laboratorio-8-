@@ -26,7 +26,7 @@
 
 7.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
-![image](https://user-images.githubusercontent.com/93899720/154053285-aae2d5d1-8128-4821-ba39-0faee4f6f37b.png)
+![image](https://user-images.githubusercontent.com/93899720/154055542-c88109e7-aef0-4972-8907-35a56efaa122.png)
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
@@ -35,21 +35,28 @@
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
+La amplitud abarca tres divisiones por cuadro.
+
 ¿En qué valor está posicionada la perilla VOLTS/DIV?
+
+2 V 
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
+Abar dos divisiones por cuadro.
+
 ¿En qué valor está posicionada la perilla TIME/DIV? 
+
+En la posicion de 200 us 
 
 7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
+![image](https://user-images.githubusercontent.com/93899720/154055652-ad12e0f0-9e9d-4796-adca-c0b6ec6567fe.png)
 
-![image](https://user-images.githubusercontent.com/93899720/154053426-280f274c-e283-4187-bb06-79b8aa9f8e64.png)
+![image](https://user-images.githubusercontent.com/93899720/154055734-8bbbe407-11f1-4b78-af77-9600b5bc961f.png)
 
-![image](https://user-images.githubusercontent.com/93899720/154053540-07fa7189-64a5-43f0-88b5-d0c675a634a6.png)
-
-Amplitud de voltaje: (V)
-Periodo: (s)
+Amplitud de voltaje: 6.83 (V)
+Periodo: 400 us (s)
 
 7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
