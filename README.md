@@ -1,9 +1,15 @@
 # Informe-Laboratorio-8
 
 1. OBJETIVOS
+-	Objetivo general
 
--	Determinar experimentalmente las características de señales senoidales.
+- Aprender el funcionamiento  osciloscopio  mediante la experimentación de las características de señales senoidales.
 
+-	Objetivos específicos
+
+- Utilizar de manera correcta el osciloscopio para el análisis de ondas sinoidales
+
+- Analizar las ventajeas que entrega el osciloscopio en el análisis de ondas
 
 2. MARCO TEÓRICO 
 
@@ -85,6 +91,9 @@ salida.
 https://youtu.be/K1lc14f3yys
 
 6. CONCLUSIONES
+
+-	Para analizar características que ocurren en una onda generada por una fuente de voltaje alterno se puede utilizar un osciloscopio el cual permite al usuario observar aspectos de la onda tales como periodo, amplitud, etc.
+-	El osciloscopio permite modificar la forma de la onda para una mejor visualización  permitiendo al usuario visualizar los datos en tiempo real de diferentes magnitudes categorizando esta herramienta como una herramienta completa
 
 
 7. BIBLIOGRAFÍA
